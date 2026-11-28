@@ -33,7 +33,8 @@ It focuses on writing SQL queries, retrieving and analyzing data, solving busine
 SQL-for-Data-Analytics/
 │
 ├── 01_SQL_Basics/
-│   └── Day_01_SELECT_and_DISTINCT.sql
+│   ├── Day_01_SELECT_and_DISTINCT.sql
+│   └── Day_02_WHERE_and_Operators.sql
 │
 ├── 02_Filtering_and_Sorting/
 │
@@ -57,7 +58,7 @@ SQL-for-Data-Analytics/
 | Day | Topic | Status |
 |---|---|---|
 | Day 01 | SELECT and DISTINCT | ✔ Completed |
-| Day 02 | WHERE and Operators | Planned |
+| Day 02 | WHERE and Operators | ✔ Completed |
 | Day 03 | AND, OR and NOT | Planned |
 | Day 04 | LIKE, IN and BETWEEN | Planned |
 | Day 05 | ORDER BY and LIMIT | Planned |
@@ -111,7 +112,7 @@ Each topic includes:
 
 ## Goal
 
-To develop strong SQL skills for entry level Data Analyst roles and build a foundation for advanced Data Science and Machine Learning concepts.
+To develop strong SQL skills for entry-level Data Analyst roles and build a foundation for advanced Data Science and Machine Learning concepts.
 
 ---
 
